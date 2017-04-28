@@ -14,6 +14,16 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <p>Where does the logo have to live in order to work with React?</p>
+        <p>Earlier in the day, Rob was unable to access his images unless
+           he put them in his public folder. However, in this default example,
+           there is an svg in src that works just fine</p>
+        <p>In this, the second branch, there is new stuff that is not in the
+           master branch.</p>
+        <h1>New Material</h1
+        <p>After this commit, I am going to make a merge request and then 
+           accept the merge. Afterwards, I will try the command this is
+           intended to test: <code>git revert -m 1 <hash of the merge to undo> </code>
+        </p>
       </div>
     );
   }
