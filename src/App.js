@@ -14,6 +14,10 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <p>Where does the logo have to live in order to work with React?</p>
+        <p>Earlier in the day, Rob was unable to access his images unless
+           he put them in his public folder. However, in this default example,
+           there is an svg in src that works just fine</p>
+        
       </div>
     );
   }
