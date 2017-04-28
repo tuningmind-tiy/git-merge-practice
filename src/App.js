@@ -19,7 +19,11 @@ class App extends Component {
            there is an svg in src that works just fine</p>
         <p>In this, the second branch, there is new stuff that is not in the
            master branch.</p>
-        
+        <h1>New Material</h1
+        <p>After this commit, I am going to make a merge request and then 
+           accept the merge. Afterwards, I will try the command this is
+           intended to test: <code>git revert -m 1 <hash of the merge to undo> </code>
+        </p>
       </div>
     );
   }
