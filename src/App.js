@@ -17,6 +17,8 @@ class App extends Component {
         <p>Earlier in the day, Rob was unable to access his images unless
            he put them in his public folder. However, in this default example,
            there is an svg in src that works just fine</p>
+        <p>In this, the second branch, there is new stuff that is not in the
+           master branch.</p>
         
       </div>
     );
